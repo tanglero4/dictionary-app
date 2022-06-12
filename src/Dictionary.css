@@ -1,3 +1,45 @@
-.Dictionary{
-    margin: 30px auto;
+.Dictionary h1{
+    font-size: 50px;
+    text-align: center;
+    color: #F12B6B;
+
+}
+.Dictionary h2{
+    color:  #FF467E;
+    font-size: 27px;
+}
+.Dictionary section {
+    background-color: rgba(253,148,180, .2) ;
+    backgroundImage: "url(/flower.png)";
+    padding: 18px;
+    border-radius: 16px;
+    margin: 18px 260px;
+    box-shadow: 0 10px 10px rgba(218, 83, 239, 0.1) ;
+}
+
+.Dictionary input{
+    width: 50%;
+    border-radius: 6px;
+    padding: 10px 10px;
+    color: #F12B6B;
+    border: 1px solid rgb(255, 70, 126);
+}
+
+.Dictionary .hint{
+    font-size: 14px;
+    margin-top: 5px;
+    color: #F6C7C7;
+}
+
+@media (max-width: 960px) {
+    .Dictionary h1{
+        font-size: 35px;
+    }
+    .Dictionary h2{
+        font-size: 20px;
+    }
+    .Dictionary section{
+        margin: 0px auto;
+        margin-bottom:10px;
+    }
 }

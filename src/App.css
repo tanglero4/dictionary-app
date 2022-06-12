@@ -1,0 +1,17 @@
+body{
+    font-family: monospace;
+}
+
+a {
+    color: #FF467E;
+}
+
+header {
+    margin: 30px 35px;
+
+}
+
+footer{
+    text-align:center;
+    margin:30px 0;
+}

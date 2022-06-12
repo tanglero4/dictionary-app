@@ -1,0 +1,22 @@
+.Meaning h3{
+font-size: 24px;
+line-height: 1.5;
+font-weight: bold;
+color:  #FF467E;
+
+}
+
+.Meaning {
+    color: #FF467E;
+}
+.Meaning .example{
+color: #FD94B4;
+font-style: italic;
+margin-top: 10px;
+}
+
+@media (max-width: 960px){
+    .Meaning h3{
+        font-size: 20px;
+    }
+}
