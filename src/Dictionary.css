@@ -10,10 +10,9 @@
 }
 .Dictionary section {
     background-color: rgba(253,148,180, .2) ;
-    backgroundImage: "url(/flower.png)";
     padding: 18px;
     border-radius: 16px;
-    margin: 18px 260px;
+    margin: 10px 200px;
     box-shadow: 0 10px 10px rgba(218, 83, 239, 0.1) ;
 }
 

@@ -15,3 +15,9 @@ footer{
     text-align:center;
     margin:30px 0;
 }
+
+@media (max-width: 960px) {
+footer{
+    font-size: 10px;
+}
+}
